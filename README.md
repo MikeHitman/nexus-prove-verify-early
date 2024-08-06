@@ -6,7 +6,7 @@ Use it: [Github Codespace](https://github.com/codespaces)
 ## COMMAND
 Paste the below command to interact with Nexus
 ```bash
-wget 
+wget https://github.com/MikeHitman/nexus-prove-verify-early/blob/main/nexus.sh && chmod +x nexus.sh && ./nexus.sh
 ```
 ## Describe 
 I'm the primary coder who selects projects and deploys smart contracts, nodes, and validators. If you're interested in interacting with the project with a couple of clicks, you're welcome. There is also an opportunity to get a non-guaranteed airdrop, if you are interested follow me here: [x.com](https://x.com/NoworkNoresult). The idea was taken from [x.com](https://x.com/ZunXBT), thanks for the inspiration
